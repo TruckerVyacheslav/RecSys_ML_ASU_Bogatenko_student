@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+streamlit
+Pillow
+jupyter
+#sqlite3
+gdown
